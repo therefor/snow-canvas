@@ -3,7 +3,7 @@
 
 ### Usage 
 ``` 
-<script src = "snow.js“></script> 
+<script src = "snow.js"></script> 
 <script> 
   window.onload = _snowCanvas({ 
       el: element, //the canvas element      
