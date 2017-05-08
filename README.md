@@ -1,5 +1,5 @@
 # snow-canvas
-> Canvas with snow effect, written by pure JavaScript. [Here is the demo](https://therefor.github.io/snow-canvas/). 
+> Snowing effect plugin, written by pure JavaScript. [Here is the demo](https://therefor.github.io/snow-canvas/). 
 
 ### Usage 
 ``` 
@@ -20,4 +20,4 @@
 </script>
 ``` 
 
-> el must be given, all other properties are alternative. 
+> "el" property must be given, all other properties are alternative. 
